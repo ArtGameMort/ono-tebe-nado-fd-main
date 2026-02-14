@@ -3,7 +3,7 @@
     display: grid;
     grid-template-columns: 1fr min-content 1fr;
     align-items: center;
-    padding: 90px 49px  99px 50px;
+    padding: 88px 49px  99px 50px;
 }
 
 .header__logo {
