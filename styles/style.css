@@ -78,7 +78,7 @@
     font-size: 100px;
     text-transform: uppercase;
     color: white;
-    padding: 165px 49px 105px 50px;
+    padding: 135px 49px 0 50px;
     position: relative;
     z-index: 2;
 }
@@ -100,14 +100,14 @@
 }
 
 .letter-spacing-extended {
-    letter-spacing: 26px;
-    line-height: 115%;
+    letter-spacing: 27px;
+    line-height: 137%;
 }
 
 .cover__description {
     display: flex;
     justify-content: space-between;
-    padding:56px 49px 50px 50px;
+    padding: 106px 49px 0 50px;
     align-items: center;
     position: relative;
     z-index: 2;
