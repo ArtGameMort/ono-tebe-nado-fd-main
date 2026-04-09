@@ -75,7 +75,7 @@
     font-size: 100px;
     text-transform: uppercase;
     color: white;
-    padding: 135px 49px 0 50px;
+    padding: 165px 50px 0 50px;
     position: relative;
     z-index: 2;
     min-height: 385px;
@@ -98,21 +98,25 @@
 }
 
 .letter-spacing-extended {
-    letter-spacing: 27px;
-    line-height: 137%;
+    letter-spacing: 0.3em;
+    line-height: 115%;
+}
+
+.no-letter-spacing{
+    letter-spacing: 0;
 }
 
 .cover__description {
     display: flex;
     justify-content: space-between;
-    padding: 106px 49px 0 50px;
+    padding: 106px 50px 50px 50px;
     align-items: center;
     position: relative;
     z-index: 2;
 }
 
 .cover__description-text {
-    word-spacing: 16px;
+    word-spacing: 18px;
     text-transform: uppercase;
     color: white;
     font-size: 22px;
