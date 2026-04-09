@@ -75,7 +75,7 @@
     font-size: 100px;
     text-transform: uppercase;
     color: white;
-    padding: 165px 50px 0 50px;
+    padding: 165px 49px 106px 50px;
     position: relative;
     z-index: 2;
     min-height: 385px;
@@ -110,7 +110,7 @@
 .cover__description {
     display: flex;
     justify-content: space-between;
-    padding: 106px 50px 50px 50px;
+    padding: 0 50px 50px 50px;
     align-items: center;
     position: relative;
     z-index: 2;
